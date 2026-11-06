@@ -1,0 +1,9 @@
+# Raw source exports and course files: not needed for deployment
+hhs_breaches_archive*.csv
+hhs_breaches_under_investigation*.csv
+dashboard_data (1).csv
+*.pdf
+*.ipynb
+.ipynb_checkpoints/
+__pycache__/
+.venv/
